@@ -30,6 +30,13 @@ Based on the actual hardware implementation, here's what the OLED display looks 
 ![20240917_002229](https://github.com/user-attachments/assets/3661208d-fceb-42c5-bdb1-61466dd68604)
 
 
+### **Front Panel** (Gerber File)
+<img width="273" height="681" alt="image" src="https://github.com/user-attachments/assets/6ab75ed5-93d9-4e28-a730-21b804ba233e" />
+
+
+### **Main Board** (Gerber File)
+<img width="273" height="693" alt="image" src="https://github.com/user-attachments/assets/8c3969b8-270c-4357-9271-d68584eff160" />
+
 
 ### **Actual Display Photos Analysis**
 
@@ -40,12 +47,6 @@ Based on the actual hardware implementation, here's what the OLED display looks 
 - Musical notes: `C D E F F F C D`
 - `ROT:31 ST:8 PTN:3`
 - `SCL:TD SW:1 /1 RS SV`
-
-**Photo 2 shows:**
-- Similar layout with different values
-- Musical notes: `B D E F F F C D`  
-- `ROT:9 ST:8 PTN:7`
-- `SCL:CRM SW:1 /1 RS SV`
 
 ### **Display Elements**
 - **Progress Bar** - Thin line at top showing sequence position
